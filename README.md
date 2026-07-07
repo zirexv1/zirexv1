@@ -11,11 +11,11 @@
 ## 🛠️ Tools & Languages
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" width="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=c" width="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" width="60" />
