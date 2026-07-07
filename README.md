@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨🏻‍💻 I'm Software Engineering<br>🔭 I’m currently working on<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-<p align="center"> <img src="https://media1.tenor.com/m/OLhUrratPTIAAAAC/yameda-fushiguro-megumi.gif" width="400"> haka </p>
+<p align="center"> <img src="https://media1.tenor.com/m/OLhUrratPTIAAAAC/yameda-fushiguro-megumi.gif" width="400">  </p>
 
 
 
