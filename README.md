@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I'm Software Engineering<br>🔭 I’m currently working on<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👨🏻‍💻 I'm Software Engineering<br>📚 I’m currently learning<br>💬 Ask me about anything<br>⚡ Fun fact
 
 <p align="center"> <img src="https://media1.tenor.com/m/OLhUrratPTIAAAAC/yameda-fushiguro-megumi.gif" width="400">  </p>
 
