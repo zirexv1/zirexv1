@@ -1,5 +1,6 @@
 # 💫 About Me:
 👨🏻‍💻 I'm Software Engineering<br>🔭 I’m currently working on<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+![Uploading yameda-fushiguro-megumi.gif…]()
 
 
 ## 🌐 Socials:
