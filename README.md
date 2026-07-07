@@ -9,8 +9,16 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wfPeRjEQ6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ziiiii__rex) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Zirex_exe) 
 
 ## 🛠️ Tools & Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,git,linux,vscode,html,css,java&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python" width="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="60" />
 </p>
 
 # 📊 GitHub Stats:
