@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Future Software Engineer<br>📚 I’m currently learning<br>💬 Ask me about anything<br>⚡ Fun fact
+👨🏻‍💻 Future Software Engineer<br>📚 I’m currently learning<br>💬 Ask me about anything<br>⚡𝑰 𝒅𝒐𝒏'𝒕 𝒈𝒊𝒗𝒆 𝒂 𝒇𝒖𝒄𝒌
 
 <p align="center"> <img src="https://media1.tenor.com/m/OLhUrratPTIAAAAC/yameda-fushiguro-megumi.gif" width="400">  </p>
 
