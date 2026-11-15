@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨🏻‍💻 Future Software Engineer<br>📚 I’m currently learning<br>💬 Ask me about anything<br>⚡𝑰 𝒅𝒐𝒏'𝒕 𝒈𝒊𝒗𝒆 𝒂 𝒇𝒖𝒄𝒌
 
-<p align="center"> <img src="https://tenor.com/view/mr-robot-elliot-alderson-computer-train-gif-26525865" width="400">  </p>
+<p align="center"> <img src="https://media1.tenor.com/m/KZcXqqlfzoMAAAAC/mr-robot-elliot-alderson.gif" width="400">  </p>
 
 
 
